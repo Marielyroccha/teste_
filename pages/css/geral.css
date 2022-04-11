@@ -1,0 +1,18 @@
+label {
+    display: inline-block;
+    width: 90px;
+    padding-right: 300%;
+}
+
+.btn {
+    color: #fff;
+    background-color: #f4623a;
+    border-color: #f4623a;
+    font-size: 17px;
+    justify-content: center;
+  }
+  .btn:hover {
+    color: #fff;
+    background-color: #cf5331;
+    border-color: #c34e2e;
+  }

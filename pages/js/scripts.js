@@ -58,9 +58,11 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
+
+
 document.getElementById("btn11").addEventListener("click", Pesquisar);
 function Pesquisar(){
-    var coluna = "1";
+    var coluna = "2";
     var Filtrar, Tabela, tr, td, th, i;
 
     Filtrar = document.getElementById("Busca");
@@ -85,3 +87,4 @@ function Pesquisar(){
     }
 
 }
+

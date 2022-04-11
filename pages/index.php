@@ -26,7 +26,7 @@
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="./index.html">Inicio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="./cadastrar.php">Cadastrar Produto</a></li>
                     </ul>
                 </div>
             </div>
@@ -47,7 +47,7 @@
                                     <div class="card-body">
                                       <h5 class="card-title">Roma Vendas LTDA</h5>
                                       <p class="card-text">Birigui-SP </p>
-                                      <a href="roma.html" class="btn btn-primary">Clique aqui</a>
+                                      <a href="roma.php" class="btn btn-primary">Clique aqui</a>
                                     </div>
                                   </div>
                                 </div>
@@ -56,7 +56,7 @@
                                     <div class="card-body">
                                       <h5 class="card-title">Milano Vendas offline LTDA</h5>
                                       <p class="card-text">Sumare-SP</p>
-                                      <a href="milano.html" class="btn btn-primary">Clique aqui</a>
+                                      <a href="milano.php" class="btn btn-primary">Clique aqui</a>
                                     </div>
                                   </div>
                                 </div>
